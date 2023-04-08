@@ -8,7 +8,8 @@
     "Units": "13846",
     "YOY_Units": "-0.5%",
     "Headquarters": "NA",
-    "Segment_Category": "Quick Service & Burger"
+    "Segment_Category": "Quick Service & Burger",
+    "ImageUrl": ""
   },
   {
     "Rank": "2",
@@ -19,7 +20,8 @@
     "Units": "15049",
     "YOY_Units": "3.0%",
     "Headquarters": "NA",
-    "Segment_Category": "Quick Service & Coffee Cafe"
+    "Segment_Category": "Quick Service & Coffee Cafe",
+    "ImageUrl": ""
   },
   {
     "Rank": "3",
@@ -30,7 +32,8 @@
     "Units": "2470",
     "YOY_Units": "5.0%",
     "Headquarters": "NA",
-    "Segment_Category": "Quick Service & Chicken"
+    "Segment_Category": "Quick Service & Chicken",
+    "ImageUrl": ""
   },
   {
     "Rank": "4",
@@ -41,7 +44,8 @@
     "Units": "6766",
     "YOY_Units": "2.7%",
     "Headquarters": "NA",
-    "Segment_Category": "Quick Service & Mexican"
+    "Segment_Category": "Quick Service & Mexican",
+    "ImageUrl": ""
   },
   {
     "Rank": "5",
@@ -52,7 +56,8 @@
     "Units": "7346",
     "YOY_Units": "0.2%",
     "Headquarters": "NA",
-    "Segment_Category": "Quick Service & Burger"
+    "Segment_Category": "Quick Service & Burger",
+    "ImageUrl": ""
   },
   {
     "Rank": "6",
@@ -63,7 +68,8 @@
     "Units": "23801",
     "YOY_Units": "-4.0%",
     "Headquarters": "NA",
-    "Segment_Category": "Quick Service & Sandwich"
+    "Segment_Category": "Quick Service & Sandwich",
+    "ImageUrl": ""
   },
   {
     "Rank": "7",
@@ -74,7 +80,8 @@
     "Units": "5852",
     "YOY_Units": "0.7%",
     "Headquarters": "NA",
-    "Segment_Category": "Quick Service & Burger"
+    "Segment_Category": "Quick Service & Burger",
+    "ImageUrl": ""
   },
   {
     "Rank": "8",
@@ -85,7 +92,8 @@
     "Units": "9630",
     "YOY_Units": "2.2%",
     "Headquarters": "NA",
-    "Segment_Category": "Quick Service & Coffee Cafe"
+    "Segment_Category": "Quick Service & Coffee Cafe",
+    "ImageUrl": ""
   },
   {
     "Rank": "9",
@@ -96,7 +104,8 @@
     "Units": "6126",
     "YOY_Units": "4.3%",
     "Headquarters": "NA",
-    "Segment_Category": "Quick Service & Pizza"
+    "Segment_Category": "Quick Service & Pizza",
+    "ImageUrl": ""
   },
   {
     "Rank": "10",
@@ -107,7 +116,8 @@
     "Units": "2160",
     "YOY_Units": "3.2%",
     "Headquarters": "NA",
-    "Segment_Category": "Fast Casual & Bakery Cafe"
+    "Segment_Category": "Fast Casual & Bakery Cafe",
+    "ImageUrl": ""
   },
   {
     "Rank": "11",
@@ -118,7 +128,8 @@
     "Units": "7306",
     "YOY_Units": "-2.4%",
     "Headquarters": "NA",
-    "Segment_Category": "Quick Service & Pizza"
+    "Segment_Category": "Quick Service & Pizza",
+    "ImageUrl": ""
   },
   {
     "Rank": "12",
@@ -129,7 +140,8 @@
     "Units": "2584",
     "YOY_Units": "5.3%",
     "Headquarters": "NA",
-    "Segment_Category": "Fast Casual & Mexican"
+    "Segment_Category": "Fast Casual & Mexican",
+    "ImageUrl": ""
   },
   {
     "Rank": "13",
@@ -140,7 +152,8 @@
     "Units": "3526",
     "YOY_Units": "-2.1%",
     "Headquarters": "NA",
-    "Segment_Category": "Quick Service & Burger"
+    "Segment_Category": "Quick Service & Burger",
+    "ImageUrl": ""
   },
   {
     "Rank": "14",
@@ -151,7 +164,8 @@
     "Units": "4065",
     "YOY_Units": "-0.2%",
     "Headquarters": "NA",
-    "Segment_Category": "Quick Service & Chicken"
+    "Segment_Category": "Quick Service & Chicken",
+    "ImageUrl": ""
   },
   {
     "Rank": "15",
@@ -162,7 +176,8 @@
     "Units": "866",
     "YOY_Units": "1.3%",
     "Headquarters": "NA",
-    "Segment_Category": "Casual Dining & Italian/Pizza"
+    "Segment_Category": "Casual Dining & Italian/Pizza",
+    "ImageUrl": ""
   },
   {
     "Rank": "16",
@@ -173,7 +188,8 @@
     "Units": "1665",
     "YOY_Units": "-1.7%",
     "Headquarters": "NA",
-    "Segment_Category": "Casual Dining & Varied Menu"
+    "Segment_Category": "Casual Dining & Varied Menu",
+    "ImageUrl": ""
   },
   {
     "Rank": "17",
@@ -184,7 +200,8 @@
     "Units": "2209",
     "YOY_Units": "4.9%",
     "Headquarters": "NA",
-    "Segment_Category": "Fast Casual & Asian/Noodle"
+    "Segment_Category": "Fast Casual & Asian/Noodle",
+    "ImageUrl": ""
   },
   {
     "Rank": "18",
@@ -195,7 +212,8 @@
     "Units": "3359",
     "YOY_Units": "0.9%",
     "Headquarters": "NA",
-    "Segment_Category": "Quick Service & Sandwich"
+    "Segment_Category": "Quick Service & Sandwich",
+    "ImageUrl": ""
   },
   {
     "Rank": "19",
@@ -206,7 +224,8 @@
     "Units": "2476",
     "YOY_Units": "5.5%",
     "Headquarters": "NA",
-    "Segment_Category": "Quick Service & Chicken"
+    "Segment_Category": "Quick Service & Chicken",
+    "ImageUrl": ""
   },
   {
     "Rank": "20",
@@ -217,7 +236,8 @@
     "Units": "4237",
     "YOY_Units": "-0.6%",
     "Headquarters": "NA",
-    "Segment_Category": "Quick Service & Pizza"
+    "Segment_Category": "Quick Service & Pizza",
+    "ImageUrl": ""
   },
   {
     "Rank": 21,
@@ -228,7 +248,8 @@
     "Units": "4381",
     "YOY_Units": "-0.6%",
     "Headquarters": "NA",
-    "Segment_Category": "Quick Service & Frozen Desserts"
+    "Segment_Category": "Quick Service & Frozen Desserts",
+    "ImageUrl": ""
   },
   {
     "Rank": "22",
@@ -239,7 +260,8 @@
     "Units": "1206",
     "YOY_Units": "-0.2%",
     "Headquarters": "NA",
-    "Segment_Category": "Casual Dining & Sports Bar"
+    "Segment_Category": "Casual Dining & Sports Bar",
+    "ImageUrl": ""
   },
   {
     "Rank": "23",
@@ -250,7 +272,8 @@
     "Units": "1242",
     "YOY_Units": "-0.7%",
     "Headquarters": "NA",
-    "Segment_Category": "Casual Dining & Varied Menu"
+    "Segment_Category": "Casual Dining & Varied Menu",
+    "ImageUrl": ""
   },
   {
     "Rank": "24",
@@ -261,7 +284,8 @@
     "Units": "2243",
     "YOY_Units": "0.3%",
     "Headquarters": "NA",
-    "Segment_Category": "Quick Service & Burger"
+    "Segment_Category": "Quick Service & Burger",
+    "ImageUrl": ""
   },
   {
     "Rank": "25",
@@ -272,7 +296,8 @@
     "Units": "1710",
     "YOY_Units": "0.3%",
     "Headquarters": "NA",
-    "Segment_Category": "Family Dining & Family Style"
+    "Segment_Category": "Family Dining & Family Style",
+    "ImageUrl": ""
   },
   {
     "Rank": "26",
@@ -283,7 +308,8 @@
     "Units": "553",
     "YOY_Units": "3.8%",
     "Headquarters": "NA",
-    "Segment_Category": "Casual Dining & Steak"
+    "Segment_Category": "Casual Dining & Steak",
+    "ImageUrl": ""
   },
   {
     "Rank": "27",
@@ -294,7 +320,8 @@
     "Units": "1558",
     "YOY_Units": "-1.5%",
     "Headquarters": "NA",
-    "Segment_Category": "Family Dining & Family Style"
+    "Segment_Category": "Family Dining & Family Style",
+    "ImageUrl": ""
   },
   {
     "Rank": "28",
@@ -305,7 +332,8 @@
     "Units": "3142",
     "YOY_Units": "-1.8%",
     "Headquarters": "NA",
-    "Segment_Category": "Quick Service & Pizza"
+    "Segment_Category": "Quick Service & Pizza",
+    "ImageUrl": ""
   },
   {
     "Rank": "29",
@@ -316,7 +344,8 @@
     "Units": "724",
     "YOY_Units": "-1.2%",
     "Headquarters": "NA",
-    "Segment_Category": "Casual Dining & Steak"
+    "Segment_Category": "Casual Dining & Steak",
+    "ImageUrl": ""
   },
   {
     "Rank": "30",
@@ -327,7 +356,8 @@
     "Units": "830",
     "YOY_Units": "0.6%",
     "Headquarters": "NA",
-    "Segment_Category": "Quick Service & Burger"
+    "Segment_Category": "Quick Service & Burger",
+    "ImageUrl": ""
   },
   {
     "Rank": "31",
@@ -338,7 +368,8 @@
     "Units": "679",
     "YOY_Units": "0.1%",
     "Headquarters": "NA",
-    "Segment_Category": "Casual Dining & Seafood"
+    "Segment_Category": "Casual Dining & Seafood",
+    "ImageUrl": ""
   },
   {
     "Rank": "32",
@@ -349,7 +380,8 @@
     "Units": "660",
     "YOY_Units": "0.8%",
     "Headquarters": "NA",
-    "Segment_Category": "Family Dining & Family Style"
+    "Segment_Category": "Family Dining & Family Style",
+    "ImageUrl": ""
   },
   {
     "Rank": "33",
@@ -360,7 +392,8 @@
     "Units": "206",
     "YOY_Units": "2.5%",
     "Headquarters": "NA",
-    "Segment_Category": "Casual Dining & Varied Menu"
+    "Segment_Category": "Casual Dining & Varied Menu",
+    "ImageUrl": ""
   },
   {
     "Rank": "34",
@@ -371,7 +404,8 @@
     "Units": "2787",
     "YOY_Units": "-0.5%",
     "Headquarters": "NA",
-    "Segment_Category": "Fast Casual & Sandwich"
+    "Segment_Category": "Fast Casual & Sandwich",
+    "ImageUrl": ""
   },
   {
     "Rank": "35",
@@ -382,7 +416,8 @@
     "Units": "1820",
     "YOY_Units": "-1.4%",
     "Headquarters": "NA",
-    "Segment_Category": "Quick Service & Burger"
+    "Segment_Category": "Quick Service & Burger",
+    "ImageUrl": ""
   },
   {
     "Rank": "36",
@@ -393,6 +428,7 @@
     "Units": "910",
     "YOY_Units": "1.3%",
     "Headquarters": "NA",
-    "Segment_Category": "Fast Casual & Chicken"
+    "Segment_Category": "Fast Casual & Chicken",
+    "ImageUrl": ""
   }
 ]
